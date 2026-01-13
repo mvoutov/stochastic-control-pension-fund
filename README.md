@@ -2,6 +2,10 @@
 
 This repository contains a graduate research project completed as part of *Financial Engineering Systems I* at the University of California, Berkeley.
 
+## Authors
+
+Monika Voutov, Konstantin Zhivotov
+
 ## Overview
 The project studies optimal asset allocation for a defined-contribution (DC) pension fund under inflation risk. A simplified single-agent version of a stochastic control framework is analyzed, inspired by Guan & Liang (2016).
 
